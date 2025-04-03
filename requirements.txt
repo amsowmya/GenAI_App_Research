@@ -1,0 +1,14 @@
+langchain
+langchain-community
+langchain-openai 
+tavily-python
+python-dotenv
+langgraph
+SpeechRecognition
+gTTS
+google-generativeai
+pyaudio
+langchain-groq
+IPython
+ipykernel
+-e .
