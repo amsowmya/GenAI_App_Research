@@ -1,6 +1,7 @@
 langchain
 langchain-community
 langchain-openai 
+langchain-huggingface
 tavily-python
 python-dotenv
 langgraph
